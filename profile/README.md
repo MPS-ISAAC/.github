@@ -23,9 +23,12 @@ A list of our hands-on activities are as follows:
 7. Quality of service determination for OT-Networks
     * Create a loop network connection and run two experiments: one with Rapid Spanning Tree Protocol (RSTP) and another with no RSTP 
     * For each experiment measure: packet loss, throughput, latency, jitter, and spanning tree convergence time
-8. Establish a connection from an automation controller to a downstream relay
-    * Device options: SEL 849, 421, 451, 311, 487, 3530 and KoCoS ARTES 460
+8. Commission an automation controller and establish a connection from the automation controller to a downstream relay
+    * Three phase output producing test system: KoCoS ARTES 460
+    * Automation Controller: SEL 3530
+    * Downstream relay device options: SEL 849, 421, 451, 311, 487, 3530 and KoCoS ARTES 460
     * Protocol options: DNP3, Modbus, Goose, Ethernet
+
 
 
 # LICENSE
