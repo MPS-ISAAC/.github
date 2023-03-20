@@ -28,6 +28,12 @@ A list of our hands-on activities are as follows:
     * Automation Controller: SEL 3530
     * Downstream relay device options: SEL 849, 421, 451, 311, 487, 3530 and KoCoS ARTES 460
     * Protocol options: DNP3, Modbus, Goose, Ethernet
+9. Introduce standard CPS-OT network security practices and learn penetration testing (pentesting) to identify security gaps to better secure CPS-OT networks
+    * Practice defense in depth strategy elements
+    * Network reconnaissance via mapping routes, ports, and packet sniffing
+    * Identify security gaps i.e. insecure ports, routes, unencrypted packets, etc.
+    * Fix identified security gaps via network hardening and segmentation i.e. MAC filtering, Virtual Local Area Network (VLAN) and firewall configuration, etc.
+    * Optional: practice virtualized network deployment and maintenance via VMWare Workstation, SecurityOnion, etc.
 
 
 
